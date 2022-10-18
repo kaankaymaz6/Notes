@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d9f9e15-b064-4c8b-b67d-ff135122dbe5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kaans Projects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day5/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day5/Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day6/VariableDeclaration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day6/VariableDeclaration2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day6/VariableDeclaration3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day6/VariableDeclaration4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day6/VariableDeclaration5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day7/EscapeCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day7/Tasks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day7/VariableDeclaration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day7/VariableDeclaration1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day9/ArithmeticOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day9/InputWithScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day9/TaskWithScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day9/ValidVariables.java" afterDir="false" />
-    </list>
+    <list default="true" id="1d9f9e15-b064-4c8b-b67d-ff135122dbe5" name="Changes" comment="day5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,6 +127,28 @@
       <option name="presentableId" value="Default" />
       <updated>1665514565528</updated>
     </task>
+    <task id="LOCAL-00001" summary="day5">
+      <created>1666111505064</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666111505064</updated>
+    </task>
+    <task id="LOCAL-00002" summary="day5">
+      <created>1666111875004</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666111875004</updated>
+    </task>
+    <task id="LOCAL-00003" summary="day5">
+      <created>1666111952221</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666111952221</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,5 +161,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="day5" />
+    <MESSAGE value="day5 MainApp" />
+    <option name="LAST_COMMIT_MESSAGE" value="day5 MainApp" />
   </component>
 </project>
