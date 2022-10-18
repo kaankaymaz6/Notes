@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d9f9e15-b064-4c8b-b67d-ff135122dbe5" name="Changes" comment="day5 MainApp" />
+    <list default="true" id="1d9f9e15-b064-4c8b-b67d-ff135122dbe5" name="Changes" comment="Projects and Notes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,7 +155,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666112280105</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="day5 MainApp">
+      <created>1666112390791</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666112390791</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Projects and Notes">
+      <created>1666112518406</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666112518406</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +186,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="day5" />
     <MESSAGE value="day5 MainApp" />
-    <option name="LAST_COMMIT_MESSAGE" value="day5 MainApp" />
+    <MESSAGE value="Projects and Notes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Projects and Notes" />
   </component>
 </project>

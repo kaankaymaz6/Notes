@@ -9,7 +9,7 @@ public class VariableDeclaration {
         //2. Pascal Notasyonu
         //3. Snake Notasyonu
 
-        int kisaKenar=7;
+        int kisaKenar=6;
         int uzunKenar=11;
         //Çevre hesabı: 2x (Kısa Kenar + Uzun Kenar)
         //Alan hesabı: Kısa Kenar x Uzun Kenar
