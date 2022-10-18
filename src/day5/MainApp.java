@@ -9,5 +9,6 @@ public class MainApp {
 
     public static void topla(){
         System.out.println(3+4);
+
     }
 }
