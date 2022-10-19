@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d9f9e15-b064-4c8b-b67d-ff135122dbe5" name="Changes" comment="Notes">
-      <change afterPath="$PROJECT_DIR$/src/day10/Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day10/Methods2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day10/Methods3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day10/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day11/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day11/GuessinGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day11/RelationalOpExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day11/RelationalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day11/Task.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/AssignmentOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/AssignmentOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day5/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day5/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day5/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day5/Variables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +51,13 @@
       <recent name="day7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task">
-    <configuration name="AssignmentOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day10.AssignmentOperators" />
+  <component name="RunManager" selected="Application.Circle">
+    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day11.Circle" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day10.*" />
+          <option name="PATTERN" value="day11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day10.Methods" />
+    <configuration name="GuessinGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day11.GuessinGame" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day10.*" />
+          <option name="PATTERN" value="day11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,25 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Methods2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day10.Methods2" />
+    <configuration name="RelationalOpExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day11.RelationalOpExamples" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Methods3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day10.Methods3" />
-      <module name="Kaans Projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day10.*" />
+          <option name="PATTERN" value="day11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +92,24 @@
       </method>
     </configuration>
     <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day10.Task" />
+      <option name="MAIN_CLASS_NAME" value="day11.Task" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day10.*" />
+          <option name="PATTERN" value="day11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day5.Variables" />
+      <module name="Kaans Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Circle" />
         <item itemvalue="Application.Task" />
-        <item itemvalue="Application.Methods3" />
-        <item itemvalue="Application.Methods2" />
-        <item itemvalue="Application.Methods" />
-        <item itemvalue="Application.AssignmentOperators" />
+        <item itemvalue="Application.RelationalOpExamples" />
+        <item itemvalue="Application.GuessinGame" />
+        <item itemvalue="Application.Variables" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666113322724</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Notes">
+      <created>1666198155494</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666198155494</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
