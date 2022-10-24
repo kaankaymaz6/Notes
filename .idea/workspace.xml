@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d9f9e15-b064-4c8b-b67d-ff135122dbe5" name="Changes" comment="Notes">
-      <change afterPath="$PROJECT_DIR$/src/day12/LogicalOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day12/ifpack/IfExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day12/ifpack/IfRepetition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day12/ifpack/IfStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day12/logicaloperators/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day12/logicaloperators/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day12/logicaloperators/Task.java" afterDir="false" />
+    <list default="true" id="1d9f9e15-b064-4c8b-b67d-ff135122dbe5" name="Changes" comment="20.10.2022">
+      <change afterPath="$PROJECT_DIR$/src/day13/RepetitionDay1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/RepetitionDay2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14/IfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14/MaxNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14/MinNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14/SmallTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14/Task.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,13 +52,13 @@
       <recent name="day7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task">
-    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12.logicaloperators.Example1" />
+  <component name="RunManager" selected="Application.MinNumber">
+    <configuration name="MaxNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day14.MaxNumber" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12.logicaloperators.*" />
+          <option name="PATTERN" value="day14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12.logicaloperators.Example2" />
+    <configuration name="MinNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day14.MinNumber" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12.logicaloperators.*" />
+          <option name="PATTERN" value="day14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,25 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12.ifpack.IfExample" />
+    <configuration name="SmallTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day14.SmallTask" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12.ifpack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LogicalOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12.LogicalOperators" />
-      <module name="Kaans Projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day12.*" />
+          <option name="PATTERN" value="day14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +93,24 @@
       </method>
     </configuration>
     <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12.logicaloperators.Task" />
+      <option name="MAIN_CLASS_NAME" value="day14.Task" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12.logicaloperators.*" />
+          <option name="PATTERN" value="day14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day13.Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day13.Task" />
+      <module name="Kaans Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task" />
-        <item itemvalue="Application.Example2" />
-        <item itemvalue="Application.Example1" />
-        <item itemvalue="Application.LogicalOperators" />
-        <item itemvalue="Application.IfExample" />
+        <item itemvalue="Application.MinNumber" />
+        <item itemvalue="Application.MaxNumber" />
+        <item itemvalue="Application.day14.Task" />
+        <item itemvalue="Application.SmallTask" />
+        <item itemvalue="Application.day13.Task" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666209708621</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="20.10.2022">
+      <created>1666295592957</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1666295592957</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,6 +240,7 @@
     <MESSAGE value="day5 MainApp" />
     <MESSAGE value="Projects and Notes" />
     <MESSAGE value="Notes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Notes" />
+    <MESSAGE value="20.10.2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.10.2022" />
   </component>
 </project>
