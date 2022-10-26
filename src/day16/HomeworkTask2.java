@@ -31,7 +31,7 @@ public class HomeworkTask2 {
             case 2:
                 System.out.println("Enter the info for circle");
                 System.out.print("Radius : ");
-                radius=input.nextInt();
+                radius= (int) input.nextDouble();
                 cArea = (int) (Math.PI*(radius*radius));
                 System.out.println("Circle's Area : "+cArea);
                 cPerimeter = (int) (2*Math.PI*radius);
