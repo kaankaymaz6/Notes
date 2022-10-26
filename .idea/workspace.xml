@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d9f9e15-b064-4c8b-b67d-ff135122dbe5" name="Changes" comment="20.10.2022">
-      <change afterPath="$PROJECT_DIR$/src/day13/RepetitionDay1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/RepetitionDay2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day14/IfStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day14/MaxNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day14/MinNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day14/SmallTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day14/Task.java" afterDir="false" />
+    <list default="true" id="1d9f9e15-b064-4c8b-b67d-ff135122dbe5" name="Changes" comment="24.10.2022">
+      <change afterPath="$PROJECT_DIR$/src/SelfStudy/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14/Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day15/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day15/SwitchStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day15/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day15/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day15/Task2Ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day15/TrafficLights.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day16/HomeworkTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day16/HomeworkTask1Ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day16/HomeworkTask2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,13 +55,13 @@
       <recent name="day7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MinNumber">
-    <configuration name="MaxNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day14.MaxNumber" />
+  <component name="RunManager" selected="Application.HomeworkTask1Ternary">
+    <configuration name="HomeworkTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day16.HomeworkTask1" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day14.*" />
+          <option name="PATTERN" value="day16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day14.MinNumber" />
+    <configuration name="HomeworkTask1Ternary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day16.HomeworkTask1Ternary" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day14.*" />
+          <option name="PATTERN" value="day16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmallTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day14.SmallTask" />
+    <configuration name="HomeworkTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day16.HomeworkTask2" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day14.*" />
+          <option name="PATTERN" value="day16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day14.Task" />
+    <configuration name="Task2Ternary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day15.Task2Ternary" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day14.*" />
+          <option name="PATTERN" value="day16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day13.Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day13.Task" />
+    <configuration name="TrafficLights" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day15.TrafficLights" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day13.*" />
+          <option name="PATTERN" value="day16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MinNumber" />
-        <item itemvalue="Application.MaxNumber" />
-        <item itemvalue="Application.day14.Task" />
-        <item itemvalue="Application.SmallTask" />
-        <item itemvalue="Application.day13.Task" />
+        <item itemvalue="Application.HomeworkTask1Ternary" />
+        <item itemvalue="Application.HomeworkTask2" />
+        <item itemvalue="Application.Task2Ternary" />
+        <item itemvalue="Application.HomeworkTask1" />
+        <item itemvalue="Application.TrafficLights" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666295592957</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="24.10.2022">
+      <created>1666642305172</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1666642305172</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,6 +251,7 @@
     <MESSAGE value="Projects and Notes" />
     <MESSAGE value="Notes" />
     <MESSAGE value="20.10.2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.10.2022" />
+    <MESSAGE value="24.10.2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="24.10.2022" />
   </component>
 </project>
