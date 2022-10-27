@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d9f9e15-b064-4c8b-b67d-ff135122dbe5" name="Changes" comment="26.10.2022">
-      <change afterPath="$PROJECT_DIR$/src/day16/Loops1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day16/Loops2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day16/Loops3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day16/Loops4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day16/Loops5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day17/ForLoop1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day17/HomeworkTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day17/HomeworkTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day17/HomeworkTask3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day17/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day17/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day17/Task3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16/HomeworkTask2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day16/HomeworkTask2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +51,13 @@
       <recent name="day7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Loops5">
-    <configuration name="Loops1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day16.Loops1" />
+  <component name="RunManager" selected="Application.Task3">
+    <configuration name="ForLoop1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day17.ForLoop1" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day16.*" />
+          <option name="PATTERN" value="day17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loops2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day16.Loops2" />
+    <configuration name="HomeworkTask3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day17.HomeworkTask3" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day16.*" />
+          <option name="PATTERN" value="day17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loops3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day16.Loops3" />
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day17.Task1" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day16.*" />
+          <option name="PATTERN" value="day17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loops4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day16.Loops4" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day17.Task2" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day16.*" />
+          <option name="PATTERN" value="day17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loops5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day16.Loops5" />
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day17.Task3" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day16.*" />
+          <option name="PATTERN" value="day17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Loops5" />
-        <item itemvalue="Application.Loops4" />
-        <item itemvalue="Application.Loops3" />
-        <item itemvalue="Application.Loops2" />
-        <item itemvalue="Application.Loops1" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.ForLoop1" />
+        <item itemvalue="Application.HomeworkTask3" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666785470175</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="26.10.2022">
+      <created>1666813996210</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1666813996210</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
