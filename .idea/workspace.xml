@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d9f9e15-b064-4c8b-b67d-ff135122dbe5" name="Changes" comment="26.10.2022">
-      <change afterPath="$PROJECT_DIR$/src/day17/ForLoop1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day17/HomeworkTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day17/HomeworkTask2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day17/HomeworkTask3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day17/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day17/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day17/Task3.java" afterDir="false" />
+    <list default="true" id="1d9f9e15-b064-4c8b-b67d-ff135122dbe5" name="Changes" comment="27.10.2022">
+      <change afterPath="$PROJECT_DIR$/src/day18/Task.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +45,7 @@
       <recent name="day7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task3">
+  <component name="RunManager">
     <configuration name="ForLoop1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day17.ForLoop1" />
       <module name="Kaans Projects" />
@@ -119,10 +113,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForLoop1" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.ForLoop1" />
         <item itemvalue="Application.HomeworkTask3" />
       </list>
     </recent_temporary>
@@ -241,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666813996210</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="27.10.2022">
+      <created>1666900438485</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1666900438485</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -263,6 +264,7 @@
     <MESSAGE value="20.10.2022" />
     <MESSAGE value="24.10.2022" />
     <MESSAGE value="26.10.2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="26.10.2022" />
+    <MESSAGE value="27.10.2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="27.10.2022" />
   </component>
 </project>
