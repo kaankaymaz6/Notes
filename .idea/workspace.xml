@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d9f9e15-b064-4c8b-b67d-ff135122dbe5" name="Changes" comment="31.10.2022">
-      <change afterPath="$PROJECT_DIR$/src/day19/ArrayTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day19/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day20/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day20/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day20/Task2.java" afterDir="false" />
+    <list default="true" id="1d9f9e15-b064-4c8b-b67d-ff135122dbe5" name="Changes" comment="1.11.2022">
+      <change afterPath="$PROJECT_DIR$/src/day21/Array100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21/ForWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21/NestedFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21/TaskTriStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21/TaskTriStarAnswer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,13 +50,13 @@
       <recent name="day7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task2">
-    <configuration name="ArrayTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day19.ArrayTask1" />
+  <component name="RunManager" selected="Application.Array100">
+    <configuration name="Array100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day21.Array100" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day19.*" />
+          <option name="PATTERN" value="day21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day20.Arrays" />
+    <configuration name="NestedFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day21.NestedFor" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day20.*" />
+          <option name="PATTERN" value="day21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day19.Program" />
+    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day21.Task" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day19.*" />
+          <option name="PATTERN" value="day21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day20.Task1" />
+    <configuration name="TaskTriStar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day21.TaskTriStar" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day20.*" />
+          <option name="PATTERN" value="day21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day20.Task2" />
+    <configuration name="TaskTriStarAnswer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day21.TaskTriStarAnswer" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day20.*" />
+          <option name="PATTERN" value="day21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.Arrays" />
-        <item itemvalue="Application.ArrayTask1" />
-        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.Array100" />
+        <item itemvalue="Application.TaskTriStarAnswer" />
+        <item itemvalue="Application.TaskTriStar" />
+        <item itemvalue="Application.day21.Task1" />
+        <item itemvalue="Application.NestedFor" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667240234103</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="1.11.2022">
+      <created>1667335075505</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1667335075505</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -278,6 +285,7 @@
     <MESSAGE value="26.10.2022" />
     <MESSAGE value="27.10.2022" />
     <MESSAGE value="31.10.2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="31.10.2022" />
+    <MESSAGE value="1.11.2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.11.2022" />
   </component>
 </project>
