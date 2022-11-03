@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d9f9e15-b064-4c8b-b67d-ff135122dbe5" name="Changes" comment="1.11.2022">
-      <change afterPath="$PROJECT_DIR$/src/day21/Array100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day21/ForWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day21/NestedFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day21/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day21/TaskTriStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day21/TaskTriStarAnswer.java" afterDir="false" />
+    <list default="true" id="1d9f9e15-b064-4c8b-b67d-ff135122dbe5" name="Changes" comment="2.11.2022">
+      <change afterPath="$PROJECT_DIR$/src/day22/Additions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day22/DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day22/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day22/Random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day22/Split.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day22/WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day22/WhileTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day22/Words.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,13 +52,13 @@
       <recent name="day7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Array100">
-    <configuration name="Array100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day21.Array100" />
+  <component name="RunManager" selected="Application.Random">
+    <configuration name="Menu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day22.Menu" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day21.*" />
+          <option name="PATTERN" value="day22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day21.NestedFor" />
+    <configuration name="Random" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day22.Random" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day21.*" />
+          <option name="PATTERN" value="day22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day21.Task" />
+    <configuration name="Split" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day22.Split" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day21.*" />
+          <option name="PATTERN" value="day22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskTriStar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day21.TaskTriStar" />
+    <configuration name="WhileTag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day22.WhileTag" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day21.*" />
+          <option name="PATTERN" value="day22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskTriStarAnswer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day21.TaskTriStarAnswer" />
+    <configuration name="Words" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day22.Words" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day21.*" />
+          <option name="PATTERN" value="day22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Array100" />
-        <item itemvalue="Application.TaskTriStarAnswer" />
-        <item itemvalue="Application.TaskTriStar" />
-        <item itemvalue="Application.day21.Task1" />
-        <item itemvalue="Application.NestedFor" />
+        <item itemvalue="Application.Random" />
+        <item itemvalue="Application.Split" />
+        <item itemvalue="Application.Words" />
+        <item itemvalue="Application.WhileTag" />
+        <item itemvalue="Application.Menu" />
       </list>
     </recent_temporary>
   </component>
@@ -261,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667335075505</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="2.11.2022">
+      <created>1667421149645</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1667421149645</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -286,6 +295,7 @@
     <MESSAGE value="27.10.2022" />
     <MESSAGE value="31.10.2022" />
     <MESSAGE value="1.11.2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.11.2022" />
+    <MESSAGE value="2.11.2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.11.2022" />
   </component>
 </project>
