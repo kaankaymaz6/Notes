@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d9f9e15-b064-4c8b-b67d-ff135122dbe5" name="Changes" comment="7.11.2022">
-      <change afterPath="$PROJECT_DIR$/src/day25/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day25/animals/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day25/animals/Lion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day25/animals/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day25/geometriksekiller/Daire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day25/geometriksekiller/Kare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day26/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day26/math/DortIslem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day26/math/Islem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day26/math/MainApp.java" afterDir="false" />
+    <list default="true" id="1d9f9e15-b064-4c8b-b67d-ff135122dbe5" name="Changes" comment="9.11.2022">
+      <change afterPath="$PROJECT_DIR$/src/day27/Aslan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27/Hayvan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelfStudy/Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day26/math/Islem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day26/math/Islem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day26/math/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day26/math/MainApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +39,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/Test_Projects/Kaans Projects&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -54,13 +51,13 @@
       <recent name="day7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.day26.math.MainApp">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day15.Calculator" />
+  <component name="RunManager" selected="Application.Program">
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day25.animals.MainApp" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day15.*" />
+          <option name="PATTERN" value="day25.animals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day25.animals.MainApp" />
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day27.Program" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day25.animals.*" />
+          <option name="PATTERN" value="day27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program" />
         <item itemvalue="Application.day26.math.MainApp" />
         <item itemvalue="Application.day26.Program" />
         <item itemvalue="Application.day25.Program" />
         <item itemvalue="Application.MainApp" />
-        <item itemvalue="Application.Calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667853191973</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="9.11.2022">
+      <created>1668025939124</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1668025939124</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -322,6 +326,7 @@
     <MESSAGE value="3.11.2022" />
     <MESSAGE value="4.11.2022" />
     <MESSAGE value="7.11.2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="7.11.2022" />
+    <MESSAGE value="9.11.2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="9.11.2022" />
   </component>
 </project>
