@@ -16,4 +16,4 @@ public class Kare extends Sekil{
         return super.getAcilarToplami();
     }
 }
-}
+

@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d9f9e15-b064-4c8b-b67d-ff135122dbe5" name="Changes" comment="10.11.2022">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day25/animals/animals.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day28/Dikdortgen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day28/Kare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day28/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day28/Sekil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day28/Sekiller" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day28/Ucgen.java" afterDir="false" />
+    <list default="true" id="1d9f9e15-b064-4c8b-b67d-ff135122dbe5" name="Changes" comment="14.11.2022">
+      <change afterPath="$PROJECT_DIR$/src/day29/Hayvan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29/Kedi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29/Koyun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29/MainApp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29/MainApp3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29/MainApp4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29/arabalar/Araba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29/arabalar/MainAppTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29/arabalar/YarisArabasi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kaans Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Kaans Projects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day28/Kare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day28/Kare.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +57,13 @@
       <recent name="day7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.den">
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day27.Program" />
+  <component name="RunManager" selected="Application.MainAppTask">
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day29.MainApp" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day27.*" />
+          <option name="PATTERN" value="day29.arabalar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day25.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day25.Program" />
+    <configuration name="MainApp2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day29.MainApp2" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day25.*" />
+          <option name="PATTERN" value="day29.arabalar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day26.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day26.Program" />
+    <configuration name="MainApp3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day29.MainApp3" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day26.*" />
+          <option name="PATTERN" value="day29.arabalar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day26.math.MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day26.math.MainApp" />
+    <configuration name="MainApp4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day29.MainApp4" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day26.math.*" />
+          <option name="PATTERN" value="day29.arabalar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="den" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day22.den" />
+    <configuration name="MainAppTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day29.arabalar.MainAppTask" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day22.*" />
+          <option name="PATTERN" value="day29.arabalar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.den" />
-        <item itemvalue="Application.Program" />
-        <item itemvalue="Application.day26.math.MainApp" />
-        <item itemvalue="Application.day26.Program" />
-        <item itemvalue="Application.day25.Program" />
+        <item itemvalue="Application.MainAppTask" />
+        <item itemvalue="Application.MainApp4" />
+        <item itemvalue="Application.MainApp3" />
+        <item itemvalue="Application.MainApp2" />
+        <item itemvalue="Application.MainApp" />
       </list>
     </recent_temporary>
   </component>
@@ -309,7 +310,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668112604613</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="14.11.2022">
+      <created>1668458058449</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1668458058449</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -340,6 +348,7 @@
     <MESSAGE value="7.11.2022" />
     <MESSAGE value="9.11.2022" />
     <MESSAGE value="10.11.2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.11.2022" />
+    <MESSAGE value="14.11.2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="14.11.2022" />
   </component>
 </project>
