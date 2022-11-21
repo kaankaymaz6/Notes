@@ -6,4 +6,9 @@ public class Mudur extends Personel{
     public void gorevYap(){
         System.out.println("Müdür, müdürlük görevini yapıyor.");
     }
+
+    @Override
+    public void yonet() {
+
+    }
 }

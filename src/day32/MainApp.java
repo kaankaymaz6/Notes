@@ -4,7 +4,12 @@ import day32.personelpro.Personel;
 
 public class MainApp {
     public static void main(String[] args) {
-        Personel per1=new Personel();
+        Personel per1= new Personel() {
+            @Override
+            public void yonet() {
+
+            }
+        };
         per1.setAdi("Ahmet");
         per1.setSoyadi("Dursun");
         per1.setSicilNo(1);

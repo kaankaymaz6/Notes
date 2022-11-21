@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d9f9e15-b064-4c8b-b67d-ff135122dbe5" name="Changes" comment="17.11.2022">
-      <change afterPath="$PROJECT_DIR$/src/day32/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32/MainApp2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32/personelpro/Mudur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32/personelpro/Personel.java" afterDir="false" />
+    <list default="true" id="1d9f9e15-b064-4c8b-b67d-ff135122dbe5" name="Changes" comment="18.11.2022">
+      <change afterPath="$PROJECT_DIR$/src/day33/Array20/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33/Array20/MainApp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33/Array20/MainApp3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33/Gezgin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33/MainApp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day33/MainApp2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day32/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day32/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day32/personelpro/Mudur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day32/personelpro/Mudur.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +55,26 @@
       <recent name="day7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainApp2">
+  <component name="RunManager" selected="Application.day33.Array20.MainApp2">
     <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day31.MainApp" />
+      <option name="MAIN_CLASS_NAME" value="day33.Array20.MainApp" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day31.*" />
+          <option name="PATTERN" value="day33.Array20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApp1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day33.MainApp1" />
+      <module name="Kaans Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day33.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day30.MainApp2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day30.MainApp2" />
+    <configuration name="day33.Array20.MainApp2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day33.Array20.MainApp2" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day30.*" />
+          <option name="PATTERN" value="day33.Array20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,25 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day31.kutular.MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day31.kutular.MainApp" />
+    <configuration name="day33.MainApp2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day33.MainApp2" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day31.kutular.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="day32.MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day32.MainApp" />
-      <module name="Kaans Projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day32.*" />
+          <option name="PATTERN" value="day33.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainApp2" />
-        <item itemvalue="Application.day32.MainApp" />
-        <item itemvalue="Application.day31.kutular.MainApp" />
+        <item itemvalue="Application.day33.Array20.MainApp2" />
         <item itemvalue="Application.MainApp" />
-        <item itemvalue="Application.day30.MainApp2" />
+        <item itemvalue="Application.day33.MainApp2" />
+        <item itemvalue="Application.MainApp1" />
+        <item itemvalue="Application.MainApp2" />
       </list>
     </recent_temporary>
   </component>
@@ -331,7 +336,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668716728901</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="18.11.2022">
+      <created>1668803624847</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1668803624847</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -366,6 +378,7 @@
     <MESSAGE value="15.11.2022" />
     <MESSAGE value="16.11.2022" />
     <MESSAGE value="17.11.2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="17.11.2022" />
+    <MESSAGE value="18.11.2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="18.11.2022" />
   </component>
 </project>
