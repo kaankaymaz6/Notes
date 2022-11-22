@@ -21,7 +21,32 @@ public class MainApp3 {
                         {84,40},//Fizik
                         {90,37},//Kimya
                         {73,79}//Mat
+                },
+                {//Orhan
+                        //V F
+                        {81,41},//Fizik
+                        {49,49},//Kimya
+                        {32,41}//Mat
+                },
+                {//Betül
+                        //V F
+                        {87,87},//Fizik
+                        {43,41},//Kimya
+                        {42,68}//Mat
                 }
         };
+        String[] isimler={"Ahmet","Ayşe","Şengül","Orhan","Betül"};
+        System.out.println("\t\tFIZ\t\t\tKIM\t\t\tMAT");
+        System.out.printf("Adı\t\t"+"Viz\tFin\t\t".repeat(3)+"\n");
+        for (int i = 0; i < notlar.length; i++) {
+            System.out.print(isimler[i]+"\t");
+            for (int j = 0; j < 3; j++) {
+                for (int k = 0; k < 2; k++) {
+                    System.out.print(notlar[i][j][k]+"\t");
+                }
+                System.out.print("\t");
+            }
+            System.out.println();
+        }
     }
 }
