@@ -1,22 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d9f9e15-b064-4c8b-b67d-ff135122dbe5" name="Changes" comment="22.11.2022">
-      <change afterPath="$PROJECT_DIR$/src/day35/Aslan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35/Avci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35/Hayvan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35/Kaplan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35/Kartal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35/Kirlangic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35/Kopekbaligi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35/Koyun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35/Ucucu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35/Yuzucu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35/geo/Kare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35/geo/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35/geo/Sekil.java" afterDir="false" />
+    <list default="true" id="1d9f9e15-b064-4c8b-b67d-ff135122dbe5" name="Changes" comment="23.11.2022">
+      <change afterPath="$PROJECT_DIR$/src/day35/geo/MainApp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35/geo/Pencere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36/MainApp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36/MainApp3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day36/MainApp4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day31/Kitap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day31/Kitap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day35/geo/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day35/geo/MainApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +21,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -53,7 +47,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -61,61 +55,9 @@
       <recent name="day7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.day35.geo.MainApp">
-    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day35.MainApp" />
-      <module name="Kaans Projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day35.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainApp1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34.MainApp1" />
-      <module name="Kaans Projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day34.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="day34.MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34.MainApp" />
-      <module name="Kaans Projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day34.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="day34.polymorfism.MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34.polymorfism.MainApp" />
-      <module name="Kaans Projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day34.polymorfism.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="day35.geo.MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day35.geo.MainApp" />
+  <component name="RunManager" selected="Application.MainApp4 (1)">
+    <configuration name="MainApp2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day35.geo.MainApp2" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
@@ -127,13 +69,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainApp4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day36.MainApp4" />
+      <module name="Kaans Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day36.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApp4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day36.MainApp4" />
+      <module name="Kaans Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day36.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day36.MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day36.MainApp" />
+      <module name="Kaans Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day36.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day36.MainApp2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day36.MainApp2" />
+      <module name="Kaans Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day36.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.day35.geo.MainApp" />
-        <item itemvalue="Application.MainApp" />
-        <item itemvalue="Application.day34.polymorfism.MainApp" />
-        <item itemvalue="Application.MainApp1" />
-        <item itemvalue="Application.day34.MainApp" />
+        <item itemvalue="Application.MainApp4 (1)" />
+        <item itemvalue="Application.MainApp4" />
+        <item itemvalue="Application.day36.MainApp2" />
+        <item itemvalue="Application.day36.MainApp" />
+        <item itemvalue="Application.MainApp2" />
       </list>
     </recent_temporary>
   </component>
@@ -363,7 +357,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669149034010</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="23.11.2022">
+      <created>1669235728075</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1669235728075</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -401,6 +402,7 @@
     <MESSAGE value="18.11.2022" />
     <MESSAGE value="21.11.2022" />
     <MESSAGE value="22.11.2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="22.11.2022" />
+    <MESSAGE value="23.11.2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.11.2022" />
   </component>
 </project>

@@ -9,7 +9,7 @@ public class Kitap {
     //getterların bir dönüş tipi var. Setterların dönüş tipi yok yani(void)
     //private üyelere erişmek için public yöntemler geliştiriyoruz yani getter setterlar metodlara benzer.
 
-    public Kitap(){
+    public Kitap(String suç_ve_ceza){
     }
 
     public Kitap(String adi, String yazari, int sayfaSayisi) {

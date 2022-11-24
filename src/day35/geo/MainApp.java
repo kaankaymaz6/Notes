@@ -18,6 +18,11 @@ public class MainApp {
         kare1.setLocation(120,20);
         pencere.add(kare1);
 
+        JLabel lblAalan=new JLabel("Alan: "+kare1.getAlan());
+        lblAalan.setLocation(330,20);
+        lblAalan.setSize(200,30);
+        pencere.add(lblAalan);
+
 
         pencere.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         pencere.setVisible(true);
