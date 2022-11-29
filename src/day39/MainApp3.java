@@ -1,0 +1,22 @@
+package day39;
+
+import javax.swing.*;
+
+public class MainApp3 {
+    public static void main(String[] args) {
+        /*
+            1. Verilen ad soyadın sadece baş harflerini geri döndüren bir metot tasarlayınız.
+            2. Kullanıcıdan bir ad soyad alıp ekranda gösteriniz.
+         */
+        //System.out.println(findInitialLetters("Ahmet Dursun"));
+        String isim = JOptionPane.showInputDialog("Lütfen isminizi giriniz.");
+        System.out.println("İsminizin baş harfleri : "+findInitialLetters(isim));
+    }
+    //Ahmet Dursun
+    public static String findInitialLetters(String isim){
+        int indexSpace=isim.indexOf(" ");
+        String first=""+isim.charAt(0);
+        String second=""+isim.charAt(indexSpace+1);
+        return first+second;
+    }
+}

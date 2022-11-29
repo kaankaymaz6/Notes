@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d9f9e15-b064-4c8b-b67d-ff135122dbe5" name="Changes" comment="24.11.2022">
-      <change afterPath="$PROJECT_DIR$/src/day37/HomeworksDone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38/MainApp1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38/MainApp2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38/MainApp3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38/MainApp4.java" afterDir="false" />
+    <list default="true" id="1d9f9e15-b064-4c8b-b67d-ff135122dbe5" name="Changes" comment="28.11.2022">
+      <change afterPath="$PROJECT_DIR$/src/day39/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39/MainApp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39/MainApp3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39/MainApp4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39/MainApp5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39/MainApp6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,13 +53,13 @@
       <recent name="day7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainApp4">
-    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day38.MainApp" />
+  <component name="RunManager" selected="Application.MainApp6">
+    <configuration name="MainApp5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day39.MainApp5" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day38.*" />
+          <option name="PATTERN" value="day39.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainApp1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day38.MainApp1" />
+    <configuration name="MainApp6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day39.MainApp6" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day38.*" />
+          <option name="PATTERN" value="day39.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainApp2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day38.MainApp2" />
+    <configuration name="day39.MainApp2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day39.MainApp2" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day38.*" />
+          <option name="PATTERN" value="day39.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainApp3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day38.MainApp3" />
+    <configuration name="day39.MainApp3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day39.MainApp3" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day38.*" />
+          <option name="PATTERN" value="day39.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainApp4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day38.MainApp4" />
+    <configuration name="day39.MainApp4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day39.MainApp4" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day38.*" />
+          <option name="PATTERN" value="day39.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainApp4" />
-        <item itemvalue="Application.MainApp3" />
-        <item itemvalue="Application.MainApp2" />
-        <item itemvalue="Application.MainApp1" />
-        <item itemvalue="Application.MainApp" />
+        <item itemvalue="Application.MainApp6" />
+        <item itemvalue="Application.MainApp5" />
+        <item itemvalue="Application.day39.MainApp4" />
+        <item itemvalue="Application.day39.MainApp3" />
+        <item itemvalue="Application.day39.MainApp2" />
       </list>
     </recent_temporary>
   </component>
@@ -369,7 +369,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669321938332</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="28.11.2022">
+      <created>1669667431926</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1669667431926</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -384,7 +391,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="day5" />
     <MESSAGE value="day5 MainApp" />
     <MESSAGE value="Projects and Notes" />
     <MESSAGE value="Notes" />
@@ -409,6 +415,7 @@
     <MESSAGE value="22.11.2022" />
     <MESSAGE value="23.11.2022" />
     <MESSAGE value="24.11.2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="24.11.2022" />
+    <MESSAGE value="28.11.2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="28.11.2022" />
   </component>
 </project>
