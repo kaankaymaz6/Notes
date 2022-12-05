@@ -1,6 +1,6 @@
 package day20;
 
-public class Arrays {
+public class ArraysNotes {
     public static void main(String[] args) {
         int[] numbers={2,4,6,8};
         for (int i = 0; i < numbers.length ; i++) {

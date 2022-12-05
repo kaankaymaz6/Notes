@@ -1,7 +1,5 @@
 package day40;
 
-import day20.Arrays;
-
 public class MainApp5 {
     public static void main(String[] args) {
         char[] dizi={'A','L','İ'};
