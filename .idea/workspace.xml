@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d9f9e15-b064-4c8b-b67d-ff135122dbe5" name="Changes" comment="15.12.2022">
-      <change afterPath="$PROJECT_DIR$/src/day52/TekrarYapildi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day53/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day53/MainApp1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day53/MainApp2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day53/MainApp3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day53/ShowRoom.java" afterDir="false" />
+    <list default="true" id="1d9f9e15-b064-4c8b-b67d-ff135122dbe5" name="Changes" comment="19.12.2022">
+      <change afterPath="$PROJECT_DIR$/src/day54/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day54/Task1.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +56,7 @@
       <recent name="day7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainApp3">
+  <component name="RunManager" selected="Application.Task1">
     <configuration name="MainApp1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day53.MainApp1" />
       <module name="Kaans Projects" />
@@ -74,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainApp2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day50.MainApp2" />
+    <configuration name="MainApp3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day53.MainApp3" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day50.*" />
+          <option name="PATTERN" value="day53.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainApp3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day53.MainApp3" />
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day54.Task1" />
       <module name="Kaans Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day53.*" />
+          <option name="PATTERN" value="day54.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.MainApp3" />
         <item itemvalue="Application.day53.MainApp2" />
         <item itemvalue="Application.MainApp1" />
         <item itemvalue="Application.day51.MainApp" />
-        <item itemvalue="Application.MainApp2" />
       </list>
     </recent_temporary>
   </component>
@@ -446,7 +442,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671133031499</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="19.12.2022">
+      <created>1671478618640</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1671478618640</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -461,7 +464,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2.11.2022" />
     <MESSAGE value="3.11.2022" />
     <MESSAGE value="4.11.2022" />
     <MESSAGE value="7.11.2022" />
@@ -486,6 +488,7 @@
     <MESSAGE value="12.12.2022" />
     <MESSAGE value="13.12.2022" />
     <MESSAGE value="15.12.2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="15.12.2022" />
+    <MESSAGE value="19.12.2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="19.12.2022" />
   </component>
 </project>
